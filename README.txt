@@ -283,14 +283,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### MIT License Summary
 
-✅ Commercial use
-✅ Modification
-✅ Distribution
-✅ Private use
-
-⚠️ License and copyright notice required
-❌ Liability
-❌ Warranty
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ⚠️ License and copyright notice required
+- ❌ Liability
+- ❌ Warranty
 
 ---
 
