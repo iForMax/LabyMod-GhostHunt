@@ -1,0 +1,16 @@
+[
+{
+  "modid": "formax",
+  "name": "ForMax Utility",
+  "description": "Shows sounds, Edit Rod, and Download Map",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Webmasters"],
+  "credits": "Currently no one",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
