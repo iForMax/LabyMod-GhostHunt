@@ -299,18 +299,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Minecraft Forge Team for the modding framework
 - Mojang Studios for Minecraft
 
----
-
-## 📧 Contact & Support
-
-- Developer: [@iForMax](https://github.com/iForMax)
-- Issues: [GitHub Issues](https://github.com/iForMax/LabyMod-GhostHunt/issues)
-- Discussions: [GitHub Discussions](https://github.com/iForMax/LabyMod-GhostHunt/discussions)
 
 ---
 
 Made with ❤️ by iForMax
-
-If you find this mod helpful, consider giving it a ⭐ on GitHub!
-
-[⬆ Back to Top](#-ghosthunt-mod)
