@@ -1,31 +1,13 @@
 # 👻 GhostHunt Mod
 
-<p align="center">
-  <a href="https://github.com/iForMax/LabyMod-GhostHunt/releases">
-    <img src="https://img.shields.io/github/v/release/iForMax/LabyMod-GhostHunt?color=brightgreen&label=Download" alt="Release">
-  </a>
-  <a href="https://files.minecraftforge.net/">
-    <img src="https://img.shields.io/badge/Minecraft-1.8.9-blue" alt="Minecraft">
-  </a>
-  <a href="https://files.minecraftforge.net/">
-    <img src="https://img.shields.io/badge/Forge-Required-orange" alt="Forge">
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-  </a>
-</p>
+[![Release](https://img.shields.io/github/v/release/iForMax/LabyMod-GhostHunt?color=brightgreen&label=Download)](https://github.com/iForMax/LabyMod-GhostHunt/releases)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.8.9-blue)](https://files.minecraftforge.net/)
+[![Forge](https://img.shields.io/badge/Forge-Required-orange)](https://files.minecraftforge.net/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-<p align="center">
-  <strong>A powerful Forge mod for tracking and collecting ghosts on Laby.net</strong>
-</p>
+**A powerful Forge mod for tracking and collecting ghosts on Laby.net**
 
-<p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-usage">Usage</a> •
-  <a href="#-commands">Commands</a> •
-  <a href="#-contributing">Contributing</a>
-</p>
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Commands](#-commands) • [Contributing](#-contributing)
 
 ---
 
@@ -328,14 +310,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-<p align="center">
-  <strong>Made with ❤️ by iForMax</strong>
-</p>
+**Made with ❤️ by iForMax**
 
-<p align="center">
-  If you find this mod helpful, consider giving it a ⭐ on GitHub!
-</p>
+If you find this mod helpful, consider giving it a ⭐ on GitHub!
 
-<p align="center">
-  <a href="#-ghosthunt-mod">⬆ Back to Top</a>
-</p>
+[⬆ Back to Top](#-ghosthunt-mod)
